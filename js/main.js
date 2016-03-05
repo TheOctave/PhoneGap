@@ -6,8 +6,8 @@ var app = {
                     "<form name = 'loginForm'>" +
                         "<input type='text' placeholder='Your .edu email' class='textInput' /><br />" +
                         "<input type='password' placeholder='Password' /><br />" +
-                        "<input type='submit' value='Login' />"
-                    "</form>" +
+                        "<input type='submit' value='Login' />" +
+                    "</form><br />" +
                     "<div>" +
                         "<a href='#'>Or Click here to Register</a>" +
                     "</div>" +

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="193893a1-49ac-49a0-a652-cfb6e2b238e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="PhoneGap.iws" />
@@ -38,13 +36,13 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5146199">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.25">
+              <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
               <folding>
-                <marker date="1457203358422" expanded="true" signature="104:595" placeholder="..." />
-                <marker date="1457203358422" expanded="true" signature="104:614" placeholder="..." />
-                <marker date="1457203358422" expanded="true" signature="154:437" placeholder="..." />
-                <marker date="1457203358422" expanded="true" signature="467:568" placeholder="..." />
+                <marker date="1457203810960" expanded="true" signature="104:603" placeholder="..." />
+                <marker date="1457203810960" expanded="true" signature="104:622" placeholder="..." />
+                <marker date="1457203810960" expanded="true" signature="154:439" placeholder="..." />
+                <marker date="1457203810960" expanded="true" signature="475:576" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -80,10 +78,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="171" />
-    <option name="y" value="11" />
-    <option name="width" value="1598" />
-    <option name="height" value="850" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1618" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -199,7 +197,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="171" y="11" width="1598" height="850" extended-state="0" />
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24968633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -246,13 +244,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5146199">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.25">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
           <folding>
-            <marker date="1457203358422" expanded="true" signature="104:595" placeholder="..." />
-            <marker date="1457203358422" expanded="true" signature="104:614" placeholder="..." />
-            <marker date="1457203358422" expanded="true" signature="154:437" placeholder="..." />
-            <marker date="1457203358422" expanded="true" signature="467:568" placeholder="..." />
+            <marker date="1457203810960" expanded="true" signature="104:603" placeholder="..." />
+            <marker date="1457203810960" expanded="true" signature="104:622" placeholder="..." />
+            <marker date="1457203810960" expanded="true" signature="154:439" placeholder="..." />
+            <marker date="1457203810960" expanded="true" signature="475:576" placeholder="..." />
           </folding>
         </state>
       </provider>

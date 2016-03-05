@@ -197,7 +197,7 @@ h2 {
 
     width: 100%;
     color: #7E8387;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .loginDiv {
@@ -214,8 +214,8 @@ h2 {
 
 .userLoginInput {
 
-    margin-top: 24px;
-    padding: 16px 24px 16px 24px;
+    margin-top: 16px;
+    padding: 8px 12px 8px 12px;
     border-radius: 4px;
     border-color: #A7A9AB;
 }
@@ -227,7 +227,7 @@ h2 {
     text-align: center;
     background: #052941;
     color: #D7C9CE;
-    font-size: 40px;
+    font-size: 22px;
     border-radius: 4px;
     border-width: 0;
     padding: 16px 0 16px 0;
@@ -237,22 +237,22 @@ h2 {
 
 input::-webkit-input-placeholder {
     color: #7E8387;
-    font-size: 30px;
+    font-size: 22px;
 }
 
 input:-moz-placeholder { /* Firefox 18- */
     color: #7E8387;
-    font-size: 30px;
+    font-size: 22px;
 }
 
 input::-moz-placeholder {  /* Firefox 19+ */
     color: #7E8387;
-    font-size: 30px;
+    font-size: 22px;
 }
 
 input:-ms-input-placeholder {
     color: #7E8387;
-    font-size: 30px;
+    font-size: 22px;
 }
 
 #toRegister {
@@ -260,6 +260,6 @@ input:-ms-input-placeholder {
 }
 
 #registerRedirect {
-    font-size: 38px;
+    font-size: 18px;
     color: #D31F26;
 }

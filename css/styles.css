@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    font-family: source-sans-pro, serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -11,6 +11,10 @@ body {
     background-color: #fff;
     overflow: hidden;
     position: relative;
+}
+
+a {
+    text-decoration: none;
 }
 
 .header {
@@ -171,7 +175,7 @@ li>a * {
 
 h1 {
     font-size: 18px;
-    padding: 20 0 0 0;
+    padding: 20px 0 0 0;
     margin: 0px;
 }
 
@@ -187,4 +191,74 @@ h2 {
     margin:10px;
     width:100px;
     height:100px;
+}
+
+.userLoginInput {
+
+    width: 100%;
+    color: #7E8387;
+    font-size: 30px;
+}
+
+.loginDiv {
+
+    width: 100%;
+    padding: 0 40px 0 40px;
+}
+
+#loginForm {
+
+    width: 100%;
+    margin-top: 36px;
+}
+
+.userLoginInput {
+
+    margin-top: 24px;
+    padding: 16px 24px 16px 24px;
+    border-radius: 4px;
+    border-color: #A7A9AB;
+}
+
+.queryButton {
+
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+    background: #052941;
+    color: #D7C9CE;
+    font-size: 40px;
+    border-radius: 4px;
+    padding: 24px 0 24px 0;
+}
+
+
+
+input::-webkit-input-placeholder {
+    color: #7E8387;
+    font-size: 30px;
+}
+
+input:-moz-placeholder { /* Firefox 18- */
+    color: #7E8387;
+    font-size: 30px;
+}
+
+input::-moz-placeholder {  /* Firefox 19+ */
+    color: #7E8387;
+    font-size: 30px;
+}
+
+input:-ms-input-placeholder {
+    color: #7E8387;
+    font-size: 30px;
+}
+
+#toRegister {
+    text-align:center;
+}
+
+#registerRedirect {
+    font-size: 38px;
+    color: #D31F26;
 }

@@ -2,14 +2,14 @@ var app = {
 
     renderHomeView: function(){
         var html =
-                "<div id = 'loginHeader'>" +
-                    "<form name = 'loginForm'>" +
-                        "<input type='text' placeholder='Your .edu email' class='textInput' /><br />" +
-                        "<input type='password' placeholder='Password' /><br />" +
-                        "<input type='submit' value='Login' />" +
+                "<div id = 'loginDiv'>" +
+                    "<form name = 'loginForm' id ='loginForm'>" +
+                        "<input type='text' placeholder='Your .edu email' class='userLoginInput' /><br />" +
+                        "<input type='password' placeholder='Password' class='userLoginInput' /><br />" +
+                        "<input type='submit' value='Login' class='queryButton' />" +
                     "</form><br />" +
-                    "<div>" +
-                        "<a href='#'>Or Click here to Register</a>" +
+                    "<div id='toRegister'>" +
+                        "<a href='#' id = 'registerRedirect'>Or Click here to Register</a>" +
                     "</div>" +
                 "</div>";
 

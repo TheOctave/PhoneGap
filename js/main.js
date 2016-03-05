@@ -2,14 +2,19 @@ var app = {
 
     renderHomeView: function(){
         var html =
-                "<div class = 'header'><h1>Home</h1></div>" +
-                "<div class='search-view'>" +
-                    "<input class='search-key' />" +
-                    "<ul class='employee-list'></ul>" +
+                "<div id = 'loginHeader'>" +
+                    "<form name = 'loginForm'>" +
+                        "<input type='text' placeholder='Your .edu email' class='textInput' /><br />" +
+                        "<input type='password' placeholder='Password' /><br />" +
+                        "<input type='submit' value='Login' />"
+                    "</form>" +
+                    "<div>" +
+                        "<a href='#'>Or Click here to Register</a>" +
+                    "</div>" +
                 "</div>";
 
         $('body').html(html);
-        $('search-key').on('keyup', $.proxy(this.findByName, this));
+        //$('.search-key').on('keyup', $.proxy(this.findByName, this));
     },
 
     findByName: function() {
@@ -28,7 +33,7 @@ var app = {
     initialize: function() {
         var self = this;
         this.store = new MemoryStore(function() {
-            self.renderHomeView();
+           self.renderHomeView();
         });
     }
 

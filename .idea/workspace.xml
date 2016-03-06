@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="193893a1-49ac-49a0-a652-cfb6e2b238e0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Driver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Passenger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Waving.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="PhoneGap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,37 +40,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-              <folding>
-                <marker date="1457206016658" expanded="true" signature="101:704" placeholder="..." />
-                <marker date="1457206016658" expanded="true" signature="101:723" placeholder="..." />
-                <marker date="1457206016658" expanded="true" signature="167:500" placeholder="..." />
-                <marker date="1457206016658" expanded="true" signature="552:677" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.1290324">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state vertical-scroll-proportion="-17.032259">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77117383">
-              <caret line="249" column="18" selection-start-line="249" selection-start-column="18" selection-end-line="249" selection-end-column="18" />
+            <state vertical-scroll-proportion="-4.5820894">
+              <caret line="477" column="14" selection-start-line="477" selection-start-column="14" selection-end-line="477" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5928144">
+              <caret line="144" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+              <folding>
+                <marker date="1457239637876" expanded="true" signature="221:848" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="221:867" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="287:644" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="696:821" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="2617:3739" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="2664:3121" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="2664:3156" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="2722:2985" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="2837:2946" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="3043:3121" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="3789:4190" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="5553:7456" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="5553:7606" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="5553:7625" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="5685:5805" placeholder="..." />
+                <marker date="1457239637876" expanded="true" signature="5685:6013" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,9 +96,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -139,6 +158,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -148,6 +209,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ikechukwu\Documents\PhoneGap\phonegap-workshop-master\phonegap-workshop-master\PhoneGap\img" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -211,7 +277,7 @@
     <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24968633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -245,32 +311,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-          <folding>
-            <marker date="1457206016658" expanded="true" signature="101:704" placeholder="..." />
-            <marker date="1457206016658" expanded="true" signature="101:723" placeholder="..." />
-            <marker date="1457206016658" expanded="true" signature="167:500" placeholder="..." />
-            <marker date="1457206016658" expanded="true" signature="552:677" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="-4.5820894">
+          <caret line="477" column="14" selection-start-line="477" selection-start-column="14" selection-end-line="477" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1290324">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state vertical-scroll-proportion="-17.032259">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77117383">
-          <caret line="249" column="18" selection-start-line="249" selection-start-column="18" selection-end-line="249" selection-end-column="18" />
-          <folding />
+        <state vertical-scroll-proportion="0.5928144">
+          <caret line="144" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding>
+            <marker date="1457239637876" expanded="true" signature="221:848" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="221:867" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="287:644" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="696:821" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="2617:3739" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="2664:3121" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="2664:3156" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="2722:2985" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="2837:2946" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="3043:3121" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="3789:4190" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="5553:7456" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="5553:7606" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="5553:7625" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="5685:5805" placeholder="..." />
+            <marker date="1457239637876" expanded="true" signature="5685:6013" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
